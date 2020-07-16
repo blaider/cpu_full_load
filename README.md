@@ -1,0 +1,1 @@
+# This is a simple example to run cpu to 100%
